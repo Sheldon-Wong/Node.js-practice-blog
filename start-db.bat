@@ -1,0 +1,1 @@
+d:\mongodb\bin\mongod.exe -dbpath d:\github\blog\blog-db
